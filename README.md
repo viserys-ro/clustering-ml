@@ -12,7 +12,6 @@ Implementation: The dataset is preprocessed, and KMeans is applied to identify c
 Description: Hierarchical clustering builds a tree-like structure (dendrogram) by progressively merging or splitting clusters. It does not require the number of clusters to be specified upfront and is useful when exploring data at different levels of granularity.
 Reason for Suitability: Hierarchical clustering is suitable for the Iris dataset because it can reveal the nested structure of clusters, allowing for a more detailed understanding of the data.
 Implementation: The dataset is preprocessed, and hierarchical clustering is applied, with the results visualized in a dendrogram.
-
 -------
 
 Key Features:
