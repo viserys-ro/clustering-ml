@@ -15,19 +15,8 @@ Implementation: The dataset is preprocessed, and hierarchical clustering is appl
 -------
 
 Key Features:
-Preprocessing: The species column is dropped from the dataset, as clustering is an unsupervised technique that does not use target labels.
-Visualization: After clustering, the data is visualized to show the clusters formed by both algorithms.
-Clear Explanations: Detailed explanations accompany the implementation of both algorithms to aid understanding.
+1. Preprocessing: The species column is dropped from the dataset, as clustering is an unsupervised technique that does not use target labels.
+2. Visualization: After clustering, the data is visualized to show the clusters formed by both algorithms.
+3.Clear Explanations: Detailed explanations accompany the implementation of both algorithms to aid understanding.
 -------
-
-How to Run:
-Clone the repository.
-Open the Jupyter Notebook.
-Run the cells to see the clustering algorithms in action.
---------
-
-Requirements:
-Python 3.x
-Jupyter Notebook
-sklearn, matplotlib, numpy, pandas
 
